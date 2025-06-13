@@ -1,0 +1,8 @@
+Plagiarism Detection Report
+=========================================
+Compared Files:
+- File A: C:\Users\user\Desktop\YASA essay iBuddy.pdf
+- File B: C:\Users\user\Desktop\Legal.docx (1).pdf
+Overall Similarity: 0.00%
+-----------------------------------------
+✅ No significant plagiarism detected based on matching 3-word sequences.

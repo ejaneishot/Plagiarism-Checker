@@ -1,0 +1,885 @@
+Plagiarism Detection Report
+=========================================
+Compared Files:
+- File A: C:\Users\user\Desktop\YASA essay iBuddy.pdf
+- File B: C:\Users\user\Desktop\FOUNDATIONS OF AI FINAL PROJECT (1).pdf
+Overall Similarity: 2.51% ⚠️ Potentially Plagiarised Sections: 
+1. Phrase: "text imageb imagec"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+2. Phrase: "imagec imagei extgstate"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+3. Phrase: "s parent r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+4. Phrase: "document p r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+5. Phrase: "cidfonttype cidtogidmap identity"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+6. Phrase: "descendantfonts r tounicode"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+7. Phrase: "lang en endobj"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+8. Phrase: "type structelem s"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+9. Phrase: "ca bm normal"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+10. Phrase: "true lang en"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+11. Phrase: "count kids r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+12. Phrase: "n n n"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+13. Phrase: "structtreeroot k r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+14. Phrase: "r info r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+15. Phrase: "imagei extgstate g"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+16. Phrase: "structelem s p"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+17. Phrase: "r k endobj"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+18. Phrase: "k endobj obj"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+19. Phrase: "r viewerpreferences type"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+20. Phrase: "docs renderer endobj"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+21. Phrase: "endobj obj ca"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+22. Phrase: "flatedecode length stream"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+23. Phrase: "obj type structelem"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+24. Phrase: "renderer endobj obj"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+25. Phrase: "producer skiapdf m"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+26. Phrase: "r mediabox contents"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+27. Phrase: "parenttree r endobj"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+28. Phrase: "normal endobj obj"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+29. Phrase: "length stream x"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+30. Phrase: "capheight italicangle fontbbox"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+31. Phrase: "r structparents tabs"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+32. Phrase: "flags ascent descent"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+33. Phrase: "obj r r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+34. Phrase: "info r startxref"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+35. Phrase: "r endobj obj"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+36. Phrase: "obj type font"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+37. Phrase: "structtreeroot r viewerpreferences"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+38. Phrase: "obj filter flatedecode"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+39. Phrase: "endstream endobj obj"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+40. Phrase: "r markinfo type"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+41. Phrase: "markinfo type markinfo"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+42. Phrase: "length filter flatedecode"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+43. Phrase: "pg r k"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+44. Phrase: "font subtype type"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+45. Phrase: "fontdescriptor r basefont"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+46. Phrase: "endobj obj r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+47. Phrase: "p r k"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+48. Phrase: "obj type fontdescriptor"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+49. Phrase: "k r r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+50. Phrase: "r pg r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+51. Phrase: "p p r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+52. Phrase: "n n trailer"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+53. Phrase: "obj type structtreeroot"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+54. Phrase: "stemv capheight italicangle"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+55. Phrase: "type pages count"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+56. Phrase: "pdf text imageb"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+57. Phrase: "n trailer size"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+58. Phrase: "true structtreeroot r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+59. Phrase: "parenttreenextkey parenttree r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+60. Phrase: "endobj xref f"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+61. Phrase: "structelem s document"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+62. Phrase: "identity supplement w"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+63. Phrase: "type page resources"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+64. Phrase: "imageb imagec imagei"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+65. Phrase: "k r parenttreenextkey"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+66. Phrase: "m google docs"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+67. Phrase: "endobj obj type"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+68. Phrase: "resources procset pdf"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+69. Phrase: "type font fontdescriptor"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+70. Phrase: "dw endobj obj"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+71. Phrase: "endobj obj length"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+72. Phrase: "registry adobe ordering"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+73. Phrase: "mediabox contents r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+74. Phrase: "encoding identityh descendantfonts"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+75. Phrase: "catalog pages r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+76. Phrase: "viewerpreferences type viewerpreferences"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+77. Phrase: "s document p"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+78. Phrase: "xref f n"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+79. Phrase: "type viewerpreferences displaydoctitle"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+80. Phrase: "type parenttree nums"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+81. Phrase: "obj length filter"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+82. Phrase: "viewerpreferences displaydoctitle true"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+83. Phrase: "displaydoctitle true lang"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+84. Phrase: "pdf obj title"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+85. Phrase: "r parenttreenextkey parenttree"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+86. Phrase: "tabs s parent"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+87. Phrase: "w dw endobj"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+88. Phrase: "markinfo marked true"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+89. Phrase: "pages r markinfo"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+90. Phrase: "contents r structparents"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+91. Phrase: "italicangle fontbbox fontfile"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+92. Phrase: "fontfile r endobj"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+93. Phrase: "r r r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+94. Phrase: "obj type parenttree"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+95. Phrase: "g r font"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+96. Phrase: "s p p"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+97. Phrase: "cidsysteminfo registry adobe"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+98. Phrase: "root r info"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+99. Phrase: "marked true structtreeroot"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+100. Phrase: "cidtogidmap identity cidsysteminfo"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+101. Phrase: "font f r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+102. Phrase: "parent r endobj"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+103. Phrase: "google docs renderer"
+   📄 Found in File A:
+      - Line 5: /Producer (Skia/PDF m139 Google Docs Renderer)>>
+   📄 Found in File B:
+      - Line 5: /Producer (Skia/PDF m139 Google Docs Renderer)>>
+
+104. Phrase: "adobe ordering identity"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+105. Phrase: "r tounicode r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+106. Phrase: "font fontdescriptor r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+107. Phrase: "type markinfo marked"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+108. Phrase: "ascent descent stemv"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+109. Phrase: "pages count kids"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+110. Phrase: "descent stemv capheight"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+111. Phrase: "obj type catalog"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+112. Phrase: "type structtreeroot k"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+113. Phrase: "tounicode r endobj"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+114. Phrase: "r startxref eof"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+115. Phrase: "type font subtype"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+116. Phrase: "extgstate g r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+117. Phrase: "en endobj obj"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+118. Phrase: "p r pg"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+119. Phrase: "subtype cidfonttype cidtogidmap"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+120. Phrase: "structparents tabs s"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+121. Phrase: "r k r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+122. Phrase: "subtype type basefont"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+123. Phrase: "r font f"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+124. Phrase: "f n n"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+125. Phrase: "bm normal endobj"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+126. Phrase: "identityh descendantfonts r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+127. Phrase: "identity cidsysteminfo registry"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+128. Phrase: "obj type pages"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+129. Phrase: "skiapdf m google"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+130. Phrase: "procset pdf text"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+131. Phrase: "size root r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+132. Phrase: "r endobj xref"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+133. Phrase: "ordering identity supplement"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+134. Phrase: "parenttree nums r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+135. Phrase: "trailer size root"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+136. Phrase: "filter flatedecode length"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+137. Phrase: "r r endobj"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+138. Phrase: "obj ca bm"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+139. Phrase: "type catalog pages"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+140. Phrase: "f r mediabox"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+141. Phrase: "supplement w dw"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+142. Phrase: "page resources procset"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+143. Phrase: "fontbbox fontfile r"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+144. Phrase: "endobj obj filter"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+145. Phrase: "obj type page"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+146. Phrase: "type fontdescriptor fontname"
+   📄 Found in File A:
+      - (Not found in File A)
+   📄 Found in File B:
+      - (Not found in File B)
+
+Note:
+Phrases are flagged if they appear in both documents after removing common stopwords.
+These matches may indicate copied content or unusually similar phrasing.
